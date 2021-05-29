@@ -6,7 +6,7 @@ sections:
     subtitle: Celebrating daily wins with YourGoal.
     actions:
       - type: action
-        label: Try for free
+        label: 無料で始める
         url: /pricing
         style: primary
     image: images/hero.svg
